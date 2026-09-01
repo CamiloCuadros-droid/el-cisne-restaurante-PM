@@ -4,8 +4,8 @@ import { ChevronLeft, ChevronRight } from "lucide-react";
 import { SiteFooter, SiteHeader } from "../App";
 
 const dishes = [
-  { name: "Churrasquito", category: "Especial de la casa", image: "/manus-storage/churrasquito-referencia_f1062a45.jpg", description: "Corte de res tierno, dorado a la plancha y servido con papa, mazorca, guacamole y hogao.", price: "$16.000" },
-  { name: "Churrasco", category: "Especial de la casa", image: "/manus-storage/churrasco-generoso_41b84ffa.jpg", description: "Una porción generosa de carne asada, con papa, mazorca, guacamole y el sabor de la casa.", price: "$21.000" },
+  { name: "Churrasquito", category: "Especial de la casa", image: "/manus-storage/churrasquito-final_612cea94.jpg", description: "Corte de res tierno, dorado a la plancha y servido con papa, mazorca, guacamole y hogao.", price: "$16.000" },
+  { name: "Churrasco", category: "Especial de la casa", image: "/manus-storage/churrasco-final_940ac4ed.jpg", description: "Una porción generosa de carne asada, con papa, mazorca, guacamole y el sabor de la casa.", price: "$21.000" },
   { name: "Mojarra 1 lb", category: "De la costa", image: "/manus-storage/pescado-frito_40d6632d.jpg", description: "Pescado entero crujiente con patacones, ensalada fresca y limón recién cortado.", price: "$21.000" },
   { name: "Bandeja paisa", category: "Generoso", image: "/manus-storage/bandeja-paisa_dcb12da4.jpg", description: "Frijol, arroz, chicharrón, huevo, plátano maduro, aguacate y arepa.", price: "$14.000" },
   { name: "Ajiaco con pollo", category: "Sopa de la casa", image: "/manus-storage/ajiaco-pollo-plato-negro_9094f2b7.jpg", description: "Ajiaco cremoso con pollo desmechado, papa, maíz y cilantro servido en plato negro.", price: "$16.000" },
