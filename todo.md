@@ -1,13 +1,11 @@
-# Revisión solicitada
+# Corrección solicitada
 
-- [x] Hacer sticky el navbar durante el scroll.
-- [x] Integrar visualmente el logo del cisne con el fondo del navbar, sin recuadro blanco.
-- [x] Sustituir la paleta por #F7E8C2, #E6BA2A, #7D1B0C y #255410.
-- [x] Cambiar “El plato del día” por “Sopa del día” y mostrar sopa de arroz.
-- [x] Quitar el indicador “01” del texto editorial.
-- [x] Reemplazar la tarjeta de mojarra por un carrusel de platos especiales.
-- [x] Incluir churrasquito, churrasco, mojarra, bandeja paisa y ajiaco con pollo con descripciones.
-- [x] Añadir botón “Ir al menú” en tono #7D1B0C.
-- [x] Añadir Facebook, X, Instagram y WhatsApp en el pie de inicio.
-- [x] Mostrar los números de contacto debajo de los horarios.
-- [x] Validar las tres rutas y guardar checkpoint actualizado.
+- [x] Generar una imagen exclusiva de sopa de arroz en plato hondo, sin pollo, arroz servido aparte ni bebidas.
+- [x] Generar una imagen de churrasquito basada en la referencia entregada.
+- [x] Generar una imagen de churrasco con más carne, basada en la referencia entregada.
+- [x] Generar una imagen de ajiaco con pollo desmechado en plato hondo negro.
+- [x] Corregir el navbar para que permanezca sticky en todas las páginas y sobre el contenido.
+- [x] Actualizar el hero para usar únicamente la sopa de arroz.
+- [x] Actualizar el carrusel para usar las imágenes correctas por plato.
+- [x] Verificar las tres rutas en escritorio y responsive.
+- [x] Guardar checkpoint actualizado.
