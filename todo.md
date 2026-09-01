@@ -1,9 +1,8 @@
-# Revisión de la página Menú
+# Mejora interactiva del almuerzo corriente
 
-- [x] Añadir Bandeja paisa — $14.000 en Platos especiales.
-- [x] Reubicar el precio de Platos ejecutivos en la parte superior derecha de su cabecera.
-- [x] Añadir en Almuerzo corriente el bloque Elige tu principio debajo del precio.
-- [x] Crear dos columnas: Principio y Proteína.
-- [x] Incluir frijol, garbanzo y pepino con iconos pequeños; el pepino debe tener tres rodajas.
-- [x] Incluir lomo asado, ternera, pollo frito y pollo sudado con iconos pequeños.
-- [x] Validar la página Menú y guardar checkpoint actualizado.
+- [x] Crear selección persistente de un principio y una proteína.
+- [x] Mostrar dentro de una caja el principio y la proteína actualmente seleccionados.
+- [x] Mantener el botón “Pedir este almuerzo” debajo de la caja de selección.
+- [x] Construir un texto de pedido con sopa, proteína, principio, arroz, ensalada y limonada.
+- [x] Enviar el texto codificado al WhatsApp del restaurante.
+- [x] Validar selección, mensaje y responsive; guardar checkpoint.
