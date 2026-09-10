@@ -1,6 +1,7 @@
-# Ajuste visual del almuerzo corriente
+# Reemplazo de imagen del carrusel
 
-- [x] Reducir el ancho y la escala visual del bloque de Almuerzo corriente.
-- [x] Centrar el bloque horizontalmente dentro de la página Menú.
-- [x] Mantener la caja interactiva, selecciones y pedido por WhatsApp funcionando.
-- [x] Validar y guardar checkpoint actualizado.
+- [x] Alojar la imagen proporcionada en los activos del proyecto.
+- [x] Usar la imagen en churrasquito.
+- [x] Usar la misma imagen en churrasco.
+- [x] Mantener intactos los textos, precios y demás platos.
+- [x] Validar el carrusel y guardar checkpoint actualizado.
